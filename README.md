@@ -8,6 +8,6 @@ Website: https://raj-shee.firebaseapp.com
 #### 1. React
 #### 2. react-router
 #### 3. Material Design 
-#### 4. Adobe Creative Cloud (web design components)
+#### 4. Adobe Creative Cloud (for web design)
 #### 5. Firebase
 
