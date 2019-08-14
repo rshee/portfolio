@@ -6,7 +6,6 @@ class Contact extends Component {
     return(
       <div className="contact-body">
         <Grid className="contact-grid">
-         
           <Cell col={6}>
             <h2>Get in touch</h2>
             <hr/>
@@ -46,5 +45,4 @@ class Contact extends Component {
     )
   }
 }
-
 export default Contact;
