@@ -1,6 +1,8 @@
 # Portfolio 
 This is a basic version of my personal website and it is still a work under progress.
-I have used React for the very first time for this web app and I'm still learning now.
+I have used React for the very first time for this web app and I'm still learning it now. This is also my first attempt at front end development so I hope to improve my skills over time.
+
+Website: https://raj-shee.firebaseapp.com
 
 ### My tool set:
 #### 1. React
@@ -9,4 +11,3 @@ I have used React for the very first time for this web app and I'm still learnin
 #### 4. Adobe Creative Cloud (web design components)
 #### 5. Firebase
 
-Website: https://raj-shee.firebaseapp.com
