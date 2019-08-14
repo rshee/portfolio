@@ -6,7 +6,6 @@ class Projects extends Component {
     super(props);
     this.state = { activeTab: 0 };
   }
-
   toggleCategories() {
     if(this.state.activeTab === 0){
       return(
