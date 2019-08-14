@@ -2,8 +2,6 @@
 This is a basic version of my personal website and it is still a work under progress.
 I have used React for the very first time for this website and I'm still learning it now. It's my first attempt at front end development so I hope to improve my skills over time.
 
-Website: https://raj-shee.firebaseapp.com
-
 ### My tool set:
 #### 1. React
 #### 2. react-router
