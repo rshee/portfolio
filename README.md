@@ -4,9 +4,9 @@ This is my first time using **React** so I'm still learning. It's also my first 
 
 ### My tool set:
 * **React**
-* **react-router**
+* **React router**
 * **Material Design** 
-* **Adobe Creative Cloud (for web design)**
+* **Adobe Creative Cloud (web design)**
 * **Firebase** 
 
 **Website:** https://raj-h-shee.web.app/
